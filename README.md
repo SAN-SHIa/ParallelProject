@@ -3,7 +3,7 @@
 ## 项目简介
 
 该项目旨在利用并行计算技术（如MPI）优化图像边缘检测算法，以加速大规模图像数据的处理。我们使用了Sobel算法，分别对串行和并行方法进行了实现，并通过比较它们的运行时间、加速比与效率来评估不同核数下的性能表现。
-[process](https://github.com/SAN-SHIa/ParallelProject/blob/main/explain.png?raw=true)
+![process](https://github.com/SAN-SHIa/ParallelProject/blob/main/explain.png?raw=true)
 
 ## 使用技术
 
